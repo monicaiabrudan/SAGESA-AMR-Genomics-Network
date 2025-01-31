@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: docs
+
+output:
+  html_document:
+    highlight: pygments
+    css: "assets/styles.css"
+    toc: true
+    toc_float:
+      collapsed: false
+      
+format:
+  html:
+    theme:
+      light: [materia, theme-light.scss]
+      dark: [materia, theme-dark.scss]
+    anchor-sections: true
+    include-in-header:
+      - text: '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">'
+
+website:
+  title: "SAGESA - An African AMR Genomics Network Resource"
+  navbar:
+    left:
+      - text: "<i class='bi bi-house-door-fill'></i> Home"
+        href: index.qmd
+      - text: "<i class='bi bi-bicycle'></i> Activities"
+        href: activities_curriculum.qmd
+
+      - text: "<i class='bi bi-laptop'></i> Webinars"
+        href: webinars.qmd
+
+
+  page-footer: 
+    left: "This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement" 
+
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+
+
+editor: visual
+
+execute:
+  freeze: auto
+  
+sidebar:
+  contents: auto
+
+link-external-newwindow: true

@@ -1,0 +1,35 @@
+1.  <div>
+
+    ---
+    title: "Explore tools and resources for pathogen genomics and AMR"
+    ---
+
+    </div>
+
+![](images/sagesa.png){width="488"}
+
+## About SAGESA
+
+The [SAGESA project](https://sagesa.africa) established a research and training network, as an important step in building capacity for pathogen genomics and surveillance of anti-microbial resistance (AMR) in Africa. The SAGESA project is funded by the [Cambridge Africa ALBORADA Research Fund](https://www.cambridge-africa.cam.ac.uk/initiatives/the-alborada-research-fund/), and is a collaboration by scientists from the [National Institute of Communicable Diseases](https://www.nicd.ac.za) in South Africa, the Faculty of Medicine and Health Sciences, [University of Zimbabwe](http://www.uz.ac.zw/index.php/university-departments), [Wellcome Connecting Science](https://coursesandconferences.wellcomeconnectingscience.org) and the [Centre for Genomic Pathogen Surveillance](https://www.pathogensurveillance.net).
+
+## Read more about SAGESA on the Wellcome Connecting Science website
+
+[A Research and Training Network - Nurturing valuable sub-regional collaborations](https://coursesandconferences.wellcomeconnectingscience.org/news_item/sagesa-a-training-and-research-network-to-develop-capacity-for-genomic-surveillance-of-amr)
+
+[Uniting against antimicrobial resistance in Africa: A collaborative effort to build capacity in genomic surveillance of AMR](https://coursesandconferences.wellcomeconnectingscience.org/news_item/uniting-against-antimicrobial-resistance-in-africa-a-collaborative-effort-to-build-capacity-in-genomic-surveillance-of-amr/)
+
+## Network and Training Activities
+
+SAGESA activities consisted of a launch workshop to establish the network; monthly 2-hour webinar sessions and a 3 day bioinformatics workshop. To find out more about the network to date, curriculum and training activities activities click on the links below
+
+[SAGESA Network Activities and Curriculum](activities_curriculum.qmd)
+
+[AMR Genomics Webinar Resources](webinars.qmd)
+
+[AMR Bioinformatics Workshop](https://wcscourses.github.io/AMR-Bio-Africa-2022/)
+
+------------------------------------------------------------------------
+
+## License
+
+This work is licensed under a [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0)
